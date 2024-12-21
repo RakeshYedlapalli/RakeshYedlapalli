@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=RakeshYedlapalli&color=05122A" alt="Profile Views" />
 </p>
 
-I'm a passionate **Full-Stack Java Developer** with 6+ years of experience specializing in product development and scalable software solutions. Currently, I'm working at **Credit Agricole Singapore**, delivering modern applications with cutting-edge technologies.
+I'm a passionate **Full-Stack Java Developer** with 6+ years of experience specializing in product development and scalable software solutions. Currently, I'm working at **Credit Agricole Singapore**.
 
 ---
 
