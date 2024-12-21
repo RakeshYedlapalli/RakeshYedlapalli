@@ -12,7 +12,7 @@
 
 - 💻 FullStack Java Developer
 
-- 🚀 Currently working at Credit Agricole
+- 🚀 Currently working at Credit Agricole Singapore
 
 - 🌐 More at: ([https://www.beatrizneaime.com](https://rakeshyedlapalli.github.io/portfolio/))
 
