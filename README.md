@@ -1,4 +1,4 @@
-<img align="right" height="490em" style="border-radius: 50% !important;" src="https://github.com/user-attachments/assets/8998c99e-2fb5-4ba1-9c2f-2c318d3f11b8"/>
+<img align="right" height="490em" style="border-radius: 50% !important;" src="https://github.com/RakeshYedlapalli/RakeshYedlapalli/blob/53c299ee955dd749933435534d0a6767aebecbde/images.jpeg"/>
 
 <h1 align="left">
   Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/>, I'm Rakesh
