@@ -14,7 +14,7 @@
 
 - 🚀 Currently working at Credit Agricole Singapore
 
-- 🌐 More at: ([https://www.beatrizneaime.com](https://rakeshyedlapalli.github.io/portfolio/))
+- 🌐 More at: ([https://rakeshyedlapalli.github.io/portfolio/](https://rakeshyedlapalli.github.io/portfolio/))
 
 <br>
 
