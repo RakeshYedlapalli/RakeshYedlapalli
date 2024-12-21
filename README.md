@@ -53,4 +53,4 @@
   <img src="https://img.shields.io/badge/Rakesh Yedlapall-05122A?logo=linkedin"/>
 </a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshYedlapallis&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshYedlapalli&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
