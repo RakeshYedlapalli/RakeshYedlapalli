@@ -30,6 +30,7 @@ I'm a passionate **Full-Stack Java Developer** with 6+ years of experience speci
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RakeshYedlapalli&theme=dracula)](https://git.io/streak-stats)
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshYedlapalli&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
