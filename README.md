@@ -14,7 +14,7 @@
 
 - 🚀 Currently working at Credit Agricole Singapore
 
-- 🌐 More at: ([https://rakeshyedlapalli.github.io/portfolio/](my portfolio))
+- 🌐 More at: ([my portfolio](https://rakeshyedlapalli.github.io/portfolio/))
 
 <br>
 
